@@ -3,10 +3,10 @@ Helping banks enhance their Loan Lending operations by implementing Loan Lending
 
 # Project Outline 
 * Data Analysis using Pig and Hive
-* Visualize data to understand it better 
-* Data Cleaned for null values and erroneous entries  
+* Explore and visualize data in MatplotLib in PySpark 
+* Clean data by removing or imputing null values and erroneous entries. 
 * Model data by dummy encoding and vectorization  
-* Combine repetitive steps to generate Data Pipeline for ETL process
+* Generate Data Pipeline for ETL process
 * Engineer new features to enhance prediction 
 * Train Multiple Regression/Classification Models 
 * Evaluate performance for different models and find the best model for the scenario (Problem Solving)
