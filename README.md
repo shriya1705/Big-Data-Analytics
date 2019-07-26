@@ -9,4 +9,10 @@ Helping banks enhance their Loan Lending operations by implementing Loan Lending
 * Feature Engineering
 * Traning Multiple Models
 * Evaluate Performance and find best model
+
+# Technologies 
+Hadoop, Data Analysis, Machine Learning
+Python, Pig/Hive, PySpark
+
+
  
