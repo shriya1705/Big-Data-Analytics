@@ -3,9 +3,10 @@ Helping banks enhance their Loan Lending operations by implementing Loan Lending
 
 # Project Outline 
 
-## Data Cleaning 
-## Data Modeling
-## Feature Extraction
-## Traning Model
-## Evaluating Performances
+* Data Cleaning 
+* Data Modeling 
+* Data Pipeline
+* Feature Engineering
+* Traning Multiple Models
+* Evaluate Performance and find best model
  
